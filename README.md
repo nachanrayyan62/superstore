@@ -5,7 +5,7 @@ This repository contains a Power BI dashboard designed to analyze sales, profits
 ## Features
 
 ### Dashboard Overview
-- **Pages:** 3 (Overview, Product, and Orders)
+- **Pages:** 4 (Home, Overview, Product, and Orders)
 - **Cards:** 15 (Key metrics like total sales, total profit, customer count, and more)
 - **Charts:** 9 (Bar charts, line charts, pie charts, table etc.)
 
